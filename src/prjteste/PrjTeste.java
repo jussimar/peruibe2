@@ -15,7 +15,8 @@ public class PrjTeste {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Olá mundo! ");
+        System.out.println("Olá mundo - 2MIN Peruibe! ");
+        System.out.println("Teste");
     }
     
 }
